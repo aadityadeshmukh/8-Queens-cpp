@@ -1,0 +1,20 @@
+{
+  "files": {
+    "NQueens.cpp": [
+      {
+        "id": "0a2e9141-939c-4152-a481-d77c93722a4e",
+        "line": 24,
+        "version": 1921,
+        "index": 749
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "8bbc2533-a3b6-45a6-b610-4fd33626109f",
+        "line": 6,
+        "version": 388,
+        "index": 101
+      }
+    ]
+  }
+}
